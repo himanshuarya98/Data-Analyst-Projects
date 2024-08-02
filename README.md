@@ -1,12 +1,14 @@
  # World Population Data Analysis Using Tableau
 
-### Project Aim 
+## Project Aim 
 To provide a comprehensive analysis of global population trends, focusing on the most populous countries, population densities, annual changes, growth rates, and the relationship between population density and country area.
 
 ## Data Source
 I have taken World Population Dataset from Kaggle that contains single text file("world_population_by_country.csv").
 
-## Objective 
+### Dashboard Link - https://public.tableau.com/app/profile/himanshu.arya6175/viz/WorldPopulationDashboard_17211965750370/WorldPopulationDashboard
+
+## Objective
 
 1. Identifying the Most Populous Countries in 2024
 2. Assessing Population Density by Country
@@ -31,4 +33,10 @@ We have performed the following steps which were necessary to clean and prepare 
 4. Ethiopia and Nigeria exhibit the highest growth rates, indicating rapid population increases. Conversely, countries like Russia show a negative growth rate, suggesting a population decline.
 5. Smaller countries like Bangladesh have high population densities. Larger countries like Russia have low population densities despite having large areas. There is an inverse relationship between country size and population density, with smaller countries experiencing higher densities.
 6. India(18.01%) and China(17.80%) alone account for a significant portion of the world's population, highlighting their demographic dominance.
+
+## Recommendations
+
+- For countries with high densities and small areas, focus on sustainable urban planning, infrastructure development, and efficient resource management to handle the high population concentration. 
+- For countries with large areas and low densities, consider developing infrastructure that connects remote areas, promoting equitable resource distribution and development.
+- Focus on enhancing infrastructure, healthcare, and education systems to manage the growing population. Implement family planning and reproductive health programs to ensure sustainable growth.
 
